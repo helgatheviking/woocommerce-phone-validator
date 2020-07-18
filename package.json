@@ -1,0 +1,27 @@
+{
+    "title": "Phone Validator for WooCommerce",
+    "name": "woo-phone-validator",
+    "description": "Forces validation of woocommerce phone field on checkout and billing address edit page.",
+    "author" : "Precious Omonzejele (CodeXplorer 🤾🏽‍♂️🥞🦜)",
+    "main" : "Gruntfile.js",
+    "license": "GPL-3.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Preciousomonze/woocommerce-phone-validator"
+    },
+    "bugs": {
+        "url": "https://github.com/Preciousomonze/woocommerce-phone-validator/issues"
+    },
+    "version": "2.0.0",
+    "devDependencies": {
+        "gh-release": "^3.5.0",
+        "grunt": "^1.0.4",
+        "grunt-contrib-clean": "~2.0.0",
+        "grunt-contrib-compress": "^1.6.0",
+        "grunt-contrib-copy": "~1.0.0",
+        "grunt-contrib-jshint": "~2.1.0",
+        "grunt-contrib-uglify": "^4.0.1",
+        "grunt-contrib-watch": "~1.1.0",
+        "grunt-newer": "~1.3.0"
+    }
+  }

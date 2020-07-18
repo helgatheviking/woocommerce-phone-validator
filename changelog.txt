@@ -1,13 +1,20 @@
 == Changelog ==
 = 1.0.0 =
 * lauhcing first version.
+
 = 1.0.1 =
 * Fix: Proper sanitizing
+
 = 1.1.0 =
 * Fix: Made error message a little bit more descriptive
 * Fix: Removed appended element when not needed
 * Added: Enables validation on Billing Address Page
+
 = 1.1.1 =
 * Fix: Js remove element
 * Fix: Compatibility with checkout manager when the checkout fields are altered
 * Fix: Validation loop hole
+
+= 1.2.0 - 2020.07.09 =
+
+*Known bug, if the number is valid,and a user puts in an invalid number with country code, it doesnt flag it as invalid :(, hmmm weird

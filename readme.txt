@@ -1,6 +1,6 @@
 ﻿=== Phone Validator for WooCommerce ===
 Contributors: preciousomonze
-Tags: woocommerce,phone number validator,checkout phone validator
+Tags: woocommerce, phone validation,phone number validator,checkout phone validator
 Requires at least: 4.9
 Tested up to: 5.2
 Requires PHP: 5.6
@@ -24,8 +24,8 @@ If you have suggestions or a new feature request, feel free to get in touch with
 = Automatic Installation =
 * 	Login to your WordPress Admin area
 * 	Go to "Plugins > Add New" from the left hand menu
-* 	In the search box type __Woocommerce Phone Validator__
-*	From the search result you will see __Woocommerce Phone Validator__ click on __Install Now__ to install the plugin.
+* 	In the search box type __Phone Validator for WooCommerce__
+*	From the search result you will see __Phone Validator for WooCommerce__ click on __Install Now__ to install the plugin.
 *	After installation, activate the plugin, that's all.
 
 
@@ -42,23 +42,8 @@ If you have suggestions or a new feature request, feel free to get in touch with
 
 1.	You need to have WooCommerce plugin installed and activated on your WordPress site.
 
-= Can i contribute to the codes of this plugin? =
-Yes you can, check out the [github repo here](https://github.com/Preciousomonze/woocommerce-phone-validator/)
-
-== Changelog ==
-
-= 1.0.0 =
-* lauhcing first version.
-= 1.0.1 =
-* Fix: Proper sanitizing
-= 1.1.0 =
-* Fix: Made error message a little bit more descriptive
-* Fix: Removed appended element when not needed
-* Added: Enables validation on Billing Address Page
-= 1.1.1 =
-* Fix: Js remove element
-* Fix: Compatibility with checkout manager when the checkout fields are altered
-* Fix: Validation loop hole
+= Can i contribute to the codes of this plugin? 👀=
+Yes you can 😙, check out the [github repo here](https://github.com/Preciousomonze/woocommerce-phone-validator/)
 
 == Upgrade notice ==
 None
@@ -69,4 +54,4 @@ None
 
 2. Error shown to user when an invalid phone number is submitted on checkout
 
-3. Error show to user when an invalid phone number is submitted on the billing address edit page
+3. Error shown to user when an invalid phone number is submitted on the billing address edit page

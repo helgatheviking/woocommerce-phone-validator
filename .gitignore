@@ -1,0 +1,8 @@
+node_modules/
+build/
+deploy/
+.sass-cache/
+package-lock.json
+vendor/
+composer.lock
+.vscode/
